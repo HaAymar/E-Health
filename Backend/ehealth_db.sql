@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1
--- Généré le : mer. 29 jan. 2025 à 15:04
+-- Généré le : mer. 29 jan. 2025 à 16:10
 -- Version du serveur : 10.4.27-MariaDB
 -- Version de PHP : 8.2.0
 
@@ -32,17 +32,20 @@ CREATE TABLE `medecin` (
   `adresse` varchar(255) DEFAULT NULL,
   `email` varchar(255) DEFAULT NULL,
   `nom` varchar(255) DEFAULT NULL,
-  `telephone` varchar(255) DEFAULT NULL
+  `telephone` varchar(255) DEFAULT NULL,
+  `role` varchar(50) DEFAULT NULL,
+  `password` varchar(255) DEFAULT NULL,
+  `specialite` varchar(255) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Déchargement des données de la table `medecin`
 --
 
-INSERT INTO `medecin` (`id`, `adresse`, `email`, `nom`, `telephone`) VALUES
-(1, '123 Rue de Paris', 'dupont@example.com', 'Dr. Dupont', '0123456789'),
-(3, 'Rue jules lahayes 278 boite 50', 'youssef.1090@live.be', 'dede', '0484063972'),
-(4, 'berchkem', 'soufian@ulb.be', 'Soufiane', '101');
+INSERT INTO `medecin` (`id`, `adresse`, `email`, `nom`, `telephone`, `role`, `password`, `specialite`) VALUES
+(1, '123 Rue de Paris', 'dupont@example.com', 'Dr. Dupont', '0123456789', NULL, NULL, NULL),
+(3, 'Rue jules lahayes 278 boite 50', 'youssef.1090@live.be', 'dede', '0484063972', NULL, NULL, NULL),
+(4, 'berchkem', 'soufian@ulb.be', 'Soufiane', '101', NULL, NULL, NULL);
 
 -- --------------------------------------------------------
 
@@ -74,18 +77,20 @@ CREATE TABLE `patient` (
   `adresse` varchar(255) DEFAULT NULL,
   `email` varchar(255) DEFAULT NULL,
   `nom` varchar(255) DEFAULT NULL,
-  `telephone` varchar(255) DEFAULT NULL
+  `telephone` varchar(255) DEFAULT NULL,
+  `role` varchar(50) DEFAULT NULL,
+  `password` varchar(255) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Déchargement des données de la table `patient`
 --
 
-INSERT INTO `patient` (`id`, `adresse`, `email`, `nom`, `telephone`) VALUES
-(1, '123 Rue de bruxelles', 'Dumont@example.com', 'Patient Dumont dumont', '0123456789'),
-(2, 'Rue jules lahayes 278 boite 50', 'youssef.1090@live.be', 'dede', '0484063972'),
-(3, 'jette', 'de@live.be', 'youssef', '4587'),
-(4, 'ixelles', 'mathias@live.be', 'mathias', '457');
+INSERT INTO `patient` (`id`, `adresse`, `email`, `nom`, `telephone`, `role`, `password`) VALUES
+(1, '123 Rue de bruxelles', 'Dumont@example.com', 'Patient Dumont dumont', '0123456789', NULL, NULL),
+(2, 'Rue jules lahayes 278 boite 50', 'youssef.1090@live.be', 'dede', '0484063972', NULL, NULL),
+(3, 'jette', 'de@live.be', 'youssef', '4587', NULL, NULL),
+(4, 'ixelles', 'mathias@live.be', 'mathias', '457', NULL, NULL);
 
 -- --------------------------------------------------------
 
