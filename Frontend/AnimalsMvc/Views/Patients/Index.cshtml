@@ -1,0 +1,29 @@
+﻿@model IEnumerable<AnimalsMvc.Models.Patient>
+
+<h2>Liste des Patients</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.First().Nom)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Email)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Adresse)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Telephone)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var patient in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => patient.Nom)</td>
+                <td>@Html.DisplayFor(modelItem => patient.Email)</td>
+                <td>@Html.DisplayFor(modelItem => patient.Adresse)</td>
+                <td>@Html.DisplayFor(modelItem => patient.Telephone)</td>
+                <td>
+                    <a href="@Url.Action("Details", new { id = patient.Id })" class="btn btn-info">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
