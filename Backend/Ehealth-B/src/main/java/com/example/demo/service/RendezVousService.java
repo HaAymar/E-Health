@@ -36,6 +36,18 @@ public class RendezVousService {
 
         return rendezVousRepository.save(rendezVous);
     }
+    
+    public RendezVous updateStatut(Long id, String statut) {
+        RendezVous rendezVous = rendezVousRepository.findById(id)
+                .orElseThrow(() -> new IllegalArgumentException("Rendez-vous non trouvé"));
+
+        if (!statut.equals("CONFIRME") && !statut.equals("ANNULE") && !statut.equals("EN_ATTENTE")) {
+            throw new IllegalArgumentException("Statut invalide. Les statuts possibles sont : CONFIRME, ANNULE, EN_ATTENTE.");
+        }
+
+        rendezVous.setStatut(statut);
+        return rendezVousRepository.save(rendezVous);
+    }
 
     public List<RendezVous> getAllRendezVous() {
         return rendezVousRepository.findAll();
