@@ -6211,23 +6211,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mr.Robot\\.nuget\\packages\\": {},
+    "C:\\Users\\HAKIZIMANA\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\AnimalsMvc.csproj",
+      "projectUniqueName": "C:\\Users\\HAKIZIMANA\\Documents\\Formations\\DevOps\\DevOps\\Pro\\E-Health\\Frontend\\AnimalsMvc\\AnimalsMvc.csproj",
       "projectName": "AnimalsMvc",
-      "projectPath": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\AnimalsMvc.csproj",
-      "packagesPath": "C:\\Users\\Mr.Robot\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\obj\\",
+      "projectPath": "C:\\Users\\HAKIZIMANA\\Documents\\Formations\\DevOps\\DevOps\\Pro\\E-Health\\Frontend\\AnimalsMvc\\AnimalsMvc.csproj",
+      "packagesPath": "C:\\Users\\HAKIZIMANA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HAKIZIMANA\\Documents\\Formations\\DevOps\\DevOps\\Pro\\E-Health\\Frontend\\AnimalsMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mr.Robot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HAKIZIMANA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
