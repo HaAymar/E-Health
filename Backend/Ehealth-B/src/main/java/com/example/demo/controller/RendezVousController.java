@@ -53,4 +53,14 @@ public class RendezVousController {
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Erreur lors de la suppression du rendez-vous");
         }
     }
+    
+    @PatchMapping("/{id}/statut")
+    public ResponseEntity<?> updateStatut(@PathVariable Long id, @RequestParam String statut) {
+        try {
+            RendezVous updatedRendezVous = rendezVousService.updateStatut(id, statut);
+            return ResponseEntity.ok(updatedRendezVous);
+        } catch (IllegalArgumentException e) {
+            return ResponseEntity.badRequest().body(e.getMessage());
+        }
+    }
 }
