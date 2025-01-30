@@ -62,5 +62,14 @@ public class RendezVousController {
         } catch (IllegalArgumentException e) {
             return ResponseEntity.badRequest().body(e.getMessage());
         }
+    @PatchMapping("/{id}/description")
+        public ResponseEntity<?> updateDescription(@PathVariable Long id, @RequestParam String description) {
+            try {
+                RendezVous updatedRendezVous = rendezVousService.updateStatut(id, description);
+                return ResponseEntity.ok(updatedRendezVous);
+            } catch (IllegalArgumentException e) {
+                return ResponseEntity.badRequest().body(e.getMessage());
+            }
+        }
     }
 }
