@@ -6211,23 +6211,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\student\\.nuget\\packages\\": {},
+    "C:\\Users\\HAKIZIMANA\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\AnimalsMvc.csproj",
+      "projectUniqueName": "C:\\Users\\HAKIZIMANA\\Documents\\Formations\\DevOps\\DevOps\\Pro\\E-Health\\Frontend\\AnimalsMvc\\AnimalsMvc.csproj",
       "projectName": "AnimalsMvc",
-      "projectPath": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\AnimalsMvc.csproj",
-      "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\obj\\",
+      "projectPath": "C:\\Users\\HAKIZIMANA\\Documents\\Formations\\DevOps\\DevOps\\Pro\\E-Health\\Frontend\\AnimalsMvc\\AnimalsMvc.csproj",
+      "packagesPath": "C:\\Users\\HAKIZIMANA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HAKIZIMANA\\Documents\\Formations\\DevOps\\DevOps\\Pro\\E-Health\\Frontend\\AnimalsMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HAKIZIMANA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6301,5 +6301,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\HAKIZIMANA\\Documents\\Formations\\DevOps\\DevOps\\Pro\\E-Health\\Frontend\\AnimalsMvc\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
