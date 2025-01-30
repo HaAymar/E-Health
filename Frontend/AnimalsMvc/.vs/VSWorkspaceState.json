@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Properties",
+    "\\Services",
+    "\\Views",
+    "\\Views\\Doctors",
+    "\\Views\\Patients",
+    "\\Views\\Shared",
+    "\\wwwroot",
+    "\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\Views\\Doctors",
+  "PreviewInSolutionExplorer": false
+}

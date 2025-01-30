@@ -36,6 +36,31 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
+[C:/Users/student/Projects/backendEhealth/E-Health/Frontend/AnimalsMvc/Views/Doctors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Projects/backendEhealth/E-Health/Frontend/AnimalsMvc/Views/Doctors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/student/Projects/backendEhealth/E-Health/Frontend/AnimalsMvc/Views/Doctors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xJbmRleC5jc2h0bWw=
+=======
+[C:/Users/HAKIZIMANA/Documents/Formations/DevOps/DevOps/Pro/E-Health/Frontend/AnimalsMvc/Views/Doctor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HAKIZIMANA/Documents/Formations/DevOps/DevOps/Pro/E-Health/Frontend/AnimalsMvc/Views/Doctor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HAKIZIMANA/Documents/Formations/DevOps/DevOps/Pro/E-Health/Frontend/AnimalsMvc/Views/Doctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEluZGV4LmNzaHRtbA==
+>>>>>>> db65e0ffd458650210ae3fee0872429c9b52ead0
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/HAKIZIMANA/Documents/Formations/DevOps/DevOps/Pro/E-Health/Frontend/AnimalsMvc/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
