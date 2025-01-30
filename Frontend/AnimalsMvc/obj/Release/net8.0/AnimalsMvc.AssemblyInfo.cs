@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnimalsMvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0465ee79f2cbc9a78436ec33c792133fcc108f55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8f335f9782506f5d5cd5259a119af93b9f5837c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnimalsMvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnimalsMvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
