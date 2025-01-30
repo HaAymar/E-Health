@@ -7,6 +7,8 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import java.time.LocalDate;
+import java.time.LocalTime;
 import java.util.List;
 
 @RestController
@@ -70,6 +72,23 @@ public class RendezVousController {
             } catch (IllegalArgumentException e) {
                 return ResponseEntity.badRequest().body(e.getMessage());
             }
+        }
+    }
+    
+    @PatchMapping("/{id}/reschedule")
+    public ResponseEntity<?> rescheduleRendezVous(
+            @PathVariable Long id,
+            @RequestParam String date,
+            @RequestParam String heure) {
+        try {
+            LocalDate newDate = LocalDate.parse(date);
+            LocalTime newHeure = LocalTime.parse(heure);
+            RendezVous updatedRendezVous = rendezVousService.rescheduleRendezVous(id, newDate, newHeure);
+            return ResponseEntity.ok(updatedRendezVous);
+        } catch (IllegalArgumentException e) {
+            return ResponseEntity.badRequest().body(e.getMessage());
+        } catch (Exception e) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Erreur lors de la replanification.");
         }
     }
 }
