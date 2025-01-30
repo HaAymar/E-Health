@@ -41,6 +41,8 @@ builder.Services.AddControllersWithViews();
 // Enregistrez HttpClient et PatientService
 builder.Services.AddHttpClient<PatientService>();
 
+builder.Services.AddHttpClient<DoctorService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

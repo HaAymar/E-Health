@@ -1,82 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\",
+  "WorkspaceRootPath": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Controllers\\DoctorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\DoctorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Services\\DoctorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\DoctorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\controllers\\patientsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:controllers\\patientsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Services\\PatientService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\PatientService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Models\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\views\\animals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:views\\animals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Models\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\models\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:models\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\views\\animals\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:views\\animals\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\animalsmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:animalsmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|c:\\users\\mr.robot\\source\\repos\\animalsmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DD4F905-336D-4687-BF78-E0B22578786D}|AnimalsMvc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Controllers\\PatientsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\PatientsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,236 +46,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\Patients\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Patients\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\Patients\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Patients\\Edit.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T14:07:03.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T12:27:58.243Z",
+              "WhenOpened": "2025-01-30T14:06:46.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:49:24.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T12:20:46.991Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\Patients\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Patients\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\Patients\\Details.cshtml",
-              "RelativeToolTip": "Views\\Patients\\Details.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T12:17:24.68Z"
+              "WhenOpened": "2025-01-30T13:49:27.762Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PatientsApiController.cs",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Controllers\\PatientsApiController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PatientsApiController.cs",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Controllers\\PatientsApiController.cs",
-              "RelativeToolTip": "Controllers\\PatientsApiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Services\\PatientService.cs",
+              "RelativeToolTip": "Services\\PatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T12:15:04.776Z"
+              "WhenOpened": "2025-01-30T13:48:52.227Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\Patients\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Patients\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\Patients\\Index.cshtml",
-              "RelativeToolTip": "Views\\Patients\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T10:30:36.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PatientsController.cs",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Controllers\\PatientsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Controllers\\PatientsController.cs",
-              "RelativeToolTip": "Controllers\\PatientsController.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAcwAkAAAArAAAAAAAAAA==",
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Services\\DoctorService.cs",
+              "RelativeToolTip": "Services\\DoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:29:51.329Z"
+              "WhenOpened": "2025-01-30T13:46:40.108Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PatientService.cs",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Services\\PatientService.cs",
-              "RelativeDocumentMoniker": "Services\\PatientService.cs",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Services\\PatientService.cs",
-              "RelativeToolTip": "Services\\PatientService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:28:45.064Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Models\\Patient.cs",
-              "RelativeDocumentMoniker": "Models\\Patient.cs",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Models\\Patient.cs",
-              "RelativeToolTip": "Models\\Patient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:27:39.583Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-28T10:12:29.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AnimalsMvc.csproj",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\AnimalsMvc.csproj",
-              "RelativeDocumentMoniker": "AnimalsMvc.csproj",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\AnimalsMvc.csproj",
-              "RelativeToolTip": "AnimalsMvc.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-28T09:17:46.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-28T09:15:14.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IndexViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Models\\IndexViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\IndexViewModel.cs",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Models\\IndexViewModel.cs",
-              "RelativeToolTip": "Models\\IndexViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T14:59:39.07Z"
+              "WhenOpened": "2025-01-30T13:44:31.466Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IData.cs",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Models\\IData.cs",
-              "RelativeDocumentMoniker": "Models\\IData.cs",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Models\\IData.cs",
-              "RelativeToolTip": "Models\\IData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T14:58:06.728Z"
+              "WhenOpened": "2025-01-30T13:41:42.841Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T14:56:34.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T14:55:52.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T14:47:59.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\Animals\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Animals\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\Animals\\Details.cshtml",
-              "RelativeToolTip": "Views\\Animals\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T14:47:24.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\Animals\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Animals\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\Animals\\Index.cshtml",
-              "RelativeToolTip": "Views\\Animals\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T14:46:16.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Mr.Robot\\source\\repos\\AnimalsMvc\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T13:35:55.676Z"
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\student\\Projects\\backendEhealth\\E-Health\\Frontend\\AnimalsMvc\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:41:31.185Z",
+              "EditorCaption": ""
             }
           ]
         }
