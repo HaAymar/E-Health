@@ -470,6 +470,5 @@ C:\Users\student\Projects\backendEhealth\E-Health\Frontend\AnimalsMvc\obj\Debug\
 C:\Users\student\Projects\backendEhealth\E-Health\Frontend\AnimalsMvc\bin\Debug\net8.0\AnimalsMvc.deps.json
 C:\Users\student\Projects\backendEhealth\E-Health\Frontend\AnimalsMvc\bin\Debug\net8.0\AnimalsMvc.runtimeconfig.json
 C:\Users\student\Projects\backendEhealth\E-Health\Frontend\AnimalsMvc\bin\Debug\net8.0\AnimalsMvc.pdb
-C:\Users\student\Projects\backendEhealth\E-Health\Frontend\AnimalsMvc\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\student\Projects\backendEhealth\E-Health\Frontend\AnimalsMvc\obj\Debug\net8.0\AnimalsMvc.genruntimeconfig.cache
 C:\Users\student\Projects\backendEhealth\E-Health\Frontend\AnimalsMvc\obj\Debug\net8.0\ref\AnimalsMvc.dll
