@@ -1,0 +1,50 @@
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container d-flex justify-content-center align-items-center" style="background-color: #afe1f5; width: 800px;">
+    <div class=" " style="background-color: #afe1f5; width: 800px;">
+        <h3 class="text-center fw-bold" style="color: #5f9ad4;  ">Connection to E-Health</h3>
+
+        <form asp-controller="Account" asp-action="Login" method="post" style="color: #5f9ad4; background-color: #afe1f5;">
+        <div style="display: flex; justify-content: center; align-items: center; padding-top: 1%; background-color: #afe1f5;" >
+
+    <div>
+        <div class="mb-3">
+            <label for="email" class="form-label fw-bold" style="color: #004080;">E-mail :</label>
+            <input type="email" id="email" name="Email" class="form-control p-2 text-white fw-bold fst-italic" 
+                style="background-color: #1a93c3; width: 400px; height: 50px; border-radius: 10px; border: none;"/>
+        </div>
+
+        <div class="mb-3">
+            <label for="password" class="form-label fw-bold" style="color: #004080;">Password :</label>
+            <input type="password" id="password" name="Password"
+                class="form-control p-3 text-white fw-bold"
+                style="background-color: #1a93c3; width: 400px; height: 50px; border-radius: 10px; border: none;"/>
+        </div>
+
+        <div class="mb-2">
+            <a href="#" class="fst-italic text-dark text-decoration-underline">Forgotten password? ?</a>
+        </div>
+
+        <div class="form-check mb-3">
+            <input type="checkbox" class="form-check-input" id="rememberMe" name="RememberMe">
+            <label class="form-check-label fw-bold" for="rememberMe" style="color: #5f9ad4;">Remember me</label>
+        </div>
+        <div class="login d-flex justify-content-center align-items-center">
+         <div class="d-grid">
+            <button type="submit" class="btn btn-primary rounded-pill p-2"  style="width: 200px; height: 50px;">LOGIN</button>
+         </div>
+        </div>
+         
+    </div>
+
+</div>
+
+        </form>
+
+        <div class="text-center mt-3">
+            <p>Don't have an account yet? <a href="/Account/Register" class="text-success fw-bold">Create one !</a></p>
+        </div>
+    </div>
+</div>
